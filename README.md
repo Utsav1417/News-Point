@@ -1,6 +1,6 @@
 # News-Point
 
-A News-Point is a Web App which displays Indian News.
+A News-Point is a Web App which displays Indian News with different categories.
 
 # News-Point
 
