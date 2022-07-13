@@ -2,10 +2,6 @@
 
 A News-Point is a Web App which displays Indian News with different categories.
 
-Demo:
-https://user-images.githubusercontent.com/63337663/178807864-bafd8dc4-0d25-4aab-a69e-29c91313afcf.mp4
-
-
 # News-Point
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
